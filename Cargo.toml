@@ -1,9 +1,9 @@
 [package]
 name = "wasm-types"
 version = "0.1.0"
-authors = ["Ilya Druzhinin <ilya.druzh@gmail.com>"]
+authors = ["Ilya Druzhinin <krondev@pm.me>"]
 license = "Apache-2.0"
-repository = "https://github.com/IlyaDruzhinin/wasm-types"
+repository = "https://github.com/krondev/wasm-types"
 
 [dependencies]
 cfg-if = "0.1.2"
